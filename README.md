@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rizqyali30
-- 👀 I’m a UX Designer
-- 🌱 I’m currently learning HTML, CSS, and JS to make a rapid prototyping for my website projects
+- 👀 I’m a UX Designer at Niagahoster
 - 📫 You can reach me via email on rizky.ali@niagahoster.co.id
 
 <!---
