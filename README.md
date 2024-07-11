@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rizqyali30
-- 👀 I’m a UX Designer at Niagahoster
-- 📫 You can reach me via email on rizky.ali@niagahoster.co.id
+- 👀 Product Designer
 
 <!---
 rizqyali30/rizqyali30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
